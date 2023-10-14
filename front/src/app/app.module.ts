@@ -30,7 +30,7 @@ import { ContactComponent } from './components/contact/contact.component';
     TechStackComponent,
     DevelopmentApproachComponent,
     HireProcessComponent,
-    ContactComponent
+    ContactComponent,
   ],
   imports: [
     BrowserModule,
